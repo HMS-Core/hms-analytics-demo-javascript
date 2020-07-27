@@ -1,5 +1,6 @@
 # HMS AnalyticsKit Demo for Javascript
 
+[![hms](https://img.shields.io/badge/hms-analytics-brightgreen)](https://developer.huawei.com/consumer/en/doc/development/HMS-References/3021004) 
 
 ## Table of Contents
 
@@ -49,7 +50,7 @@ You should create an app in AppGallery Connect, and obtain the project configura
     
 
 ## Configuration
-    Create a web app in AppGallery Connect and obtain the project configuration, then copy it to your web project.
+Create a web app in AppGallery Connect and obtain the project configuration, then copy it to your web project.
 
 ## Environment requirements
 Hardware requirements:
@@ -65,13 +66,13 @@ Software requirements:
 ## Result
 After running the app you should see a screen like this:
 
-<img src="screenshot/screen_0.png" style="max-width:100%;">
+<img src="https://github.com/HMS-Core/hms-analytics-demo-Javascript/blob/master/screenshot/screen_0.PNG" width=250 title="ID Photo DIY" div align=center border=5>
 
 Click the button TRUE or FALSE to answer the question; Click the NEXT, show the next question; Click POST SCORE, log the score user got. All the infomations will be upload to Hianalytics, and you can see these infomations in real time using Real-time.
 
 Click button SETTINGS:
 
-<img src="screenshot/screen_1.png" style="max-width:100%;">
+<img src="https://github.com/HMS-Core/hms-analytics-demo-Javascript/blob/master/screenshot/screen_1.PNG" width=250 title="ID Photo DIY" div align=center border=5>
 
 You will be asked what your favorite sport is. This choice will be logged to Hianalytics as a User Property.
 
