@@ -22,7 +22,7 @@ For more development guidance, please refer to the links below:
 
 [Development Guide](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/javascript-config-agc-0000001050964518).
 
-[API References](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/javascript-api-huawei-analytics-overview-0000001051065713).
+[API References](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/javascript-api-huawei-analytics-overview-0000001051065713).
 
 We also provide an example to demonstrate the use of analytics SDK for Web.
 
