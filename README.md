@@ -72,7 +72,7 @@ Click the button TRUE or FALSE to answer the question; Click the NEXT, show the 
 
 Click button SETTINGS:
 
-<img src="https://github.com/HMS-Core/hms-analytics-demo-Javascript/blob/master/screenshot/screen_1.PNG" width=250 title="ID Photo DIY" div align=center border=5>
+<img src="https://github.com/HMS-Core/hms-analytics-demo-Javascript/blob/master/screenshot/screen_1.PNG" width=500 title="ID Photo DIY" div align=center border=10>
 
 You will be asked what your favorite sport is. This choice will be logged to Hianalytics as a User Property.
 
