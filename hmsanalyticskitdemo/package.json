@@ -7,7 +7,7 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "@hms/analytics": "^1.0.0",
+    "@hmscore/analytics-web": "^5.0.3",
     "babel-polyfill": "6.26.0",
     "core-js": "3.6.5",
     "vue": "2.6.6",
