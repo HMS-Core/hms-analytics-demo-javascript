@@ -58,7 +58,7 @@ HmsAnalyticsKitDemo提供了web应用集成华为Hianalytics SDK的示例代码�
    
 软件要求：
 1. IDE/文本编辑器，如 [VS Code](https://code.visualstudio.com) 或 [WebStorm](https://www.jetbrains.com/webstorm/) 
-2. [npm](https://www.npmjs.com) 包管理器，一般随[Node.js](https://nodejs.org/en) 发布
+2. [npm](https://www.npmjs.com) 包管理器，一般随 [Node.js](https://nodejs.org/en) 发布
 3. Codelab的示例代码
 4. 终端/控制台
 
@@ -78,5 +78,5 @@ HmsAnalyticsKitDemo提供了web应用集成华为Hianalytics SDK的示例代码�
 
 
 ## 授权许可
-HmsAnalyticsKitDemo经过 [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+HmsAnalyticsKitDemo经过 [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0) 许可。
 
