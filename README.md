@@ -17,14 +17,14 @@ English | [中文](https://github.com/HMS-Core/hms-analytics-demo-javascript/blo
 
 ## Introduction
 HmsAnalyticsKitDemo is a web client that applying HUAWEI Hianalytics SDK used for showing how to collect user engagement and user preference.
-[Read more about Hianalytics](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/introduction-0000001050745149).
+[Read more about Hianalytics](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides-V5/introduction-0000001050745149-V5).
 ## Getting Started
 
 For more development guidance, please refer to the links below:
 
-[Development Guide](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/javascript-config-agc-0000001050964518).
+[Development Guide](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides-V5/javascript-config-agc-0000001050964518-V5).
 
-[API References](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/javascript-api-huawei-analytics-overview-0000001051065713).
+[API References](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides-V5/javascript-api-huawei-analytics-overview-0000001051065713-V5).
 
 We also provide an example to demonstrate the use of analytics SDK for Web.
 
@@ -42,7 +42,7 @@ We provide two demos:
 
 You can switch to the hmsanalyticskitdemo directory, use the command `npm install` to install the dependencies, then run command `npm run dev` to run the project directly.
 
-You should create an app in AppGallery Connect, and obtain the project configuration then copy to your web project.[Development Process](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/javascript-config-agc-0000001050964518).
+You should create an app in AppGallery Connect, and obtain the project configuration then copy to your web project.[Development Process](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides-V5/javascript-config-agc-0000001050964518-V5).
 
 
 ## Installation
