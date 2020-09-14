@@ -23,9 +23,9 @@ HmsAnalyticsKitDemo提供了web应用集成华为Hianalytics SDK的示例代码�
 
 更多开发指导，请参考以下链接文档：
 
-[开发指南](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides-V5/javascript-config-agc-0000001050964518-V5)
+[开发指南](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides-V5/introduction-0000001050745149-V5)
 
-[API参考](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides-V5/javascript-api-huawei-analytics-overview-0000001051065713-V5)
+[API参考](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-References-V5/javascript-api-huawei-analytics-overview-0000001051065713-V5)
 
 此外，为帮助您更好理解如何使用分析服务，我们提供了一个集成面向web应用的分析服务SDK的示例。
 
@@ -43,7 +43,7 @@ HmsAnalyticsKitDemo提供了web应用集成华为Hianalytics SDK的示例代码�
 其次，您可以切换到hmsanalyticskitdemo所在目录，运行npm install命令安装依赖；然后运行npm run dev命令直接运行项目。
 
 您需要在AppGallery Connect中创建应用，获取项目配置，并将项目配置添加到您的web项目。
-[进一步了解开发流程](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides-V5/javascript-config-agc-0000001050964518-V5) 
+[进一步了解开发流程](https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides-V5/javascript-dev-process-0000001051145662-V5) 
 
 
 ## 安装
