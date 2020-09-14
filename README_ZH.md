@@ -71,7 +71,7 @@ HmsAnalyticsKitDemo提供了web应用集成华为Hianalytics SDK的示例代码�
 
 <img src="https://github.com/HMS-Core/hms-analytics-demo-Javascript/blob/master/screenshot/screen_0.PNG" width=800 title="ID Photo DIY" div align=center border=20>
 
-点击“TRUE”或“FALSE”按钮进行答题；点击“NEXT”按钮进入下一道题；点击“POST SCORE”按钮记录用户获得的分数。所有信息将被上传到Hianalytics控制台，您可以通过实时监控来实时查看这些信息。
+点击“TRUE”或“FALSE”按钮进行答题；点击“POST SCORE”按钮记录用户获得的分数。所有信息将被上传到Hianalytics控制台，您可以通过实时监控来实时查看这些信息。
 
 点击“SETTINGS”按钮：
 
