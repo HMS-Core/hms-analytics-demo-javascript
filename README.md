@@ -69,7 +69,7 @@ After running the app you should see a screen like this:
 
 <img src="https://github.com/HMS-Core/hms-analytics-demo-Javascript/blob/master/screenshot/screen_0.PNG" width=800 title="ID Photo DIY" div align=center border=20>
 
-Click the button TRUE or FALSE to answer the question; Click the NEXT, show the next question; Click POST SCORE, log the score user got. All the infomations will be upload to Hianalytics, and you can see these infomations in real time using Real-time.
+Click the button TRUE or FALSE to answer the question; Click POST SCORE, log the score user got. All the infomations will be upload to Hianalytics, and you can see these infomations in real time using Real-time.
 
 Click button SETTINGS:
 
