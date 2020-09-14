@@ -34,7 +34,7 @@ HmsAnalyticsKitDemo提供了web应用集成华为Hianalytics SDK的示例代码�
 具体方法如下：
 首先，通过克隆此仓库或下载压缩包的方式来下载demo。
 
-在VS Code中，选择“File > Open Folder”菜单，然后选择analytics-sample所在目录。
+在VS Code中，选择“File > Open Folder”菜单，然后选择analytics-demo所在目录。
 
 该示例共包含两个demo：
 1. hmsanalyticskitdemo：示例应用的完整代码
