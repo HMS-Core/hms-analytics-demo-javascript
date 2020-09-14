@@ -32,7 +32,7 @@ This sample uses the npm package manager.
 
 First download the demo by cloning this repository or downloading an archived snapshot.
 
-In VS Code, use the "File -> Open Folder", and select the directory of "analytics-sample".
+In VS Code, use the "File -> Open Folder", and select the directory of "analytics-demo".
 
 We provide two demos:
 
