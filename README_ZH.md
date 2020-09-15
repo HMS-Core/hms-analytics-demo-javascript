@@ -49,6 +49,7 @@ HmsAnalyticsKitDemo提供了web应用集成华为Hianalytics SDK的示例代码�
 ## 安装
 1. 使用VS Code打开压缩项目。
 2. 切换到demo所在路径，运行npm install命令安装依赖。
+3. 配置完成后，运行npm run dev命令启动demo工程。
 
 
 ## 配置
