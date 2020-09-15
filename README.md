@@ -48,6 +48,7 @@ You should create an app in AppGallery Connect, and obtain the project configura
 ## Installation
 1.  Use VS Code to open the decompressed project
 2.  Switch to the right demo directory, use the command `npm install` to install the dependencies.
+3.  After the configuration is complete, run `npm run dev` to start the demo project.
     
 
 ## Configuration
