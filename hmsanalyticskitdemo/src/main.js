@@ -18,7 +18,7 @@ import App from "./App.vue";
 
 import agconnect from '@agconnect/api';
 import '@agconnect/instance';
-import '@hmscore/analytics-web';
+import '@hw-hmscore/analytics-web';
 import router from './router.js';
 import './assets/css/global.css';
 import 'babel-polyfill';
